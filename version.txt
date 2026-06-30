@@ -1,0 +1,4 @@
+Build from mindovermachine-dev/mom-home
+Tag: 26.6.9
+Commit: 66e156e25c708965e26671bcbf01082419111cfc
+CNAME: www.mindovermachine.dk

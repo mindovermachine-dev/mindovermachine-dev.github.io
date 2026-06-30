@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.mindovermachine.dk/sitemap-index.xml
