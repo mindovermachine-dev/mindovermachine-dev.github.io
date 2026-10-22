@@ -1,3 +1,9 @@
+- name: posse-utils
+  description: A small helper utility to install as API in a JAM stack to support a Publish-on-Own-Servers-Syndicate-Elsewhere strategy
+  homepageUrl: https://docs.mindovermachine.dev/posse-utils
+- name: remote-astro-theme
+  description: ""
+  homepageUrl: https://docs.mindovermachine.dev/remote-astro-theme/
 - name: mom-home
   description: Source for www.mindovermachine.dk
   homepageUrl: https://docs.mindovermachine.dev/mom-home
