@@ -41,7 +41,7 @@ jobs:
         run: gh docs index --file 'astro/docs-repos.mjs'                  
 
       - name: Build docs
-        run: npx remote-astro-theme dev --dir astro
+        run: npx remote-astro-theme build --dir astro
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v6
