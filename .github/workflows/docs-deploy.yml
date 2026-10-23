@@ -28,11 +28,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v6
         with:
-          node-version: 22
-          cache: npm
-
-      - name: Install dependencies
-        run: npm ci
+          node-version: 24
 
       - name: Install gh docs extension
         run: gh ext install mindovermachine-dev/gh-docs
@@ -40,8 +36,19 @@ jobs:
       - name: Generate docs index
         run: gh docs index --file 'astro/docs-repos.mjs'                  
 
-      - name: Build docs
-        run: npx remote-astro-theme build --dir astro
+    - name: Build docs
+      shell: bash
+      run: npx --yes --package "@mindovermachine-dev/remote-astro-theme@$latest" remote-astro-theme build --dir "astro"
+
+    - name: Write build metadata
+      shell: bash
+      env:
+        BUILD_REPO: ${{ github.repository }}
+        BUILD_REF: ${{ github.ref_name }}
+        BUILD_SHA: ${{ github.sha }}
+      run: |
+        printf 'Build from %s\nRef: %s\nCommit: %s\n' "$BUILD_REPO" "$BUILD_REF" "$BUILD_SHA" > "dist/version.txt"
+
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v6

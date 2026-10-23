@@ -96,7 +96,6 @@ waves:
       - "repo-gitconfig"
       - "repo-npm"
 
-
   - id: "prep-runner"
     name: "Run to prepare GitHub runner"
     parallel: true
