@@ -2,9 +2,12 @@ export const sidebar = [
   {
     label: "Documentation",
     items: [
-      { label: "posse-utils", link: "https://docs.mindovermachine.dev/posse-utils" },
-      { label: "remote-astro-theme", link: "https://docs.mindovermachine.dev/remote-astro-theme/" },
-      { label: "mom-home", link: "https://docs.mindovermachine.dev/mom-home" },
+      { label: "gh-docs", link: "/repo/gh-docs/" },
+      { label: "mom-doc-theme", link: "/repo/mom-doc-theme/" },
+      { label: "mom-home", link: "/repo/mom-home/" },
+      { label: "policy-system", link: "/repo/policy-system/" },
+      { label: "posse-utils", link: "/repo/posse-utils/" },
+      { label: "remote-astro-theme", link: "/repo/remote-astro-theme/" },
     ],
   },
 ];

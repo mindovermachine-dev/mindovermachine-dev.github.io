@@ -34,7 +34,7 @@ jobs:
         run: gh ext install mindovermachine-dev/gh-docs
 
       - name: Generate docs index
-        run: gh docs index --file 'astro/docs-repos.mjs'                  
+        run: gh docs index --config .docs.yml                
 
       - name: Build docs
         shell: bash
@@ -42,13 +42,7 @@ jobs:
   
       - name: Write build metadata
         shell: bash
-        env:
-          BUILD_REPO: ${{ github.repository }}
-          BUILD_REF: ${{ github.ref_name }}
-          BUILD_SHA: ${{ github.sha }}
-        run: |
-          printf 'Build from %s\nRef: %s\nCommit: %s\n' "$BUILD_REPO" "$BUILD_REF" "$BUILD_SHA" > "dist/version.txt"
-
+        run: gh docs version --file dist/version.txt
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v6

@@ -1,3 +1,8 @@
 index:
   owner: mindovermachine-dev
-  file: docs/_data/docs-repos.yml
+  file: astro/docs-repos.mjs
+  visibility: public
+  template: astro/remote-astro-theme.md
+  pages-dir: astro/content/repo
+  topics:
+    - documentation
