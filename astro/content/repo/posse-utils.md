@@ -1,24 +1,26 @@
 ---
-title: remote-astro-theme
-description: ""
+title: posse-utils
+description: A small helper utility to install as API in a JAM stack to support a Publish-on-Own-Servers-Syndicate-Elsewhere strategy
 tableOfContents: false
 hero:
-  tagline: ""
+  tagline: A small helper utility to install as API in a JAM stack to support a Publish-on-Own-Servers-Syndicate-Elsewhere strategy
   actions:
     - text: Documentation
-      link: https://docs.mindovermachine.dev/remote-astro-theme/
+      link: https://docs.mindovermachine.dev/posse-utils
       icon: right-arrow
     - text: Github
-      link: https://github.com/mindovermachine-dev/remote-astro-theme
+      link: https://github.com/mindovermachine-dev/posse-utils
       icon: right-arrow
       variant: minimal
 ---
-💾 **[`mindovermachine-dev/remote-astro-theme`](https://github.com/mindovermachine-dev/remote-astro-theme)**<br/>
 
+**`[mindovermachine-dev/posse-utils](https://github.com/mindovermachine-dev/posse-utils)`**
 
+💬 [Discussions](https://github.com/mindovermachine-dev/posse-utils/discussions/)<br/>
+🐛 [Issues](https://github.com/mindovermachine-dev/posse-utils/issues/)<br/>
+🏆 [Releases](https://github.com/mindovermachine-dev/posse-utils/releases/)
 
- 🏷️ [`0.1.0`](https://github.com/mindovermachine-dev/remote-astro-theme/releases/tag/0.1.0)<br/>
+**Topics**
 
-✏️ Last updated: 2026-10-29T14:37:41Z<br/>
-💬 [Discussions](https://github.com/mindovermachine-dev/remote-astro-theme/discussions/)<br/>
-🐛 [Issues](https://github.com/mindovermachine-dev/remote-astro-theme/issues/)
+- 🏷️ `documentation`
+

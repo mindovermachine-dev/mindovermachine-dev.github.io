@@ -1,24 +1,26 @@
 ---
-title: remote-astro-theme
+title: mom-doc-theme
 description: ""
 tableOfContents: false
 hero:
   tagline: ""
   actions:
     - text: Documentation
-      link: https://docs.mindovermachine.dev/remote-astro-theme/
+      link: https://docs.mindovermachine.dev/mom-doc-theme/
       icon: right-arrow
     - text: Github
-      link: https://github.com/mindovermachine-dev/remote-astro-theme
+      link: https://github.com/mindovermachine-dev/mom-doc-theme
       icon: right-arrow
       variant: minimal
 ---
-💾 **[`mindovermachine-dev/remote-astro-theme`](https://github.com/mindovermachine-dev/remote-astro-theme)**<br/>
 
+**`[mindovermachine-dev/mom-doc-theme](https://github.com/mindovermachine-dev/mom-doc-theme)`**
 
+💬 [Discussions](https://github.com/mindovermachine-dev/mom-doc-theme/discussions/)<br/>
+🐛 [Issues](https://github.com/mindovermachine-dev/mom-doc-theme/issues/)<br/>
+🏆 [Releases](https://github.com/mindovermachine-dev/mom-doc-theme/releases/)
 
- 🏷️ [`0.1.0`](https://github.com/mindovermachine-dev/remote-astro-theme/releases/tag/0.1.0)<br/>
+**Topics**
 
-✏️ Last updated: 2026-10-29T14:37:41Z<br/>
-💬 [Discussions](https://github.com/mindovermachine-dev/remote-astro-theme/discussions/)<br/>
-🐛 [Issues](https://github.com/mindovermachine-dev/remote-astro-theme/issues/)
+- 🏷️ `documentation`
+

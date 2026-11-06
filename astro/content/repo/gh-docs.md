@@ -1,24 +1,28 @@
 ---
-title: remote-astro-theme
-description: ""
+title: gh-docs
+description: A CLI that helps build an generate the documentation webs in GitHub pages
 tableOfContents: false
 hero:
-  tagline: ""
+  tagline: A CLI that helps build an generate the documentation webs in GitHub pages
   actions:
     - text: Documentation
-      link: https://docs.mindovermachine.dev/remote-astro-theme/
+      link: https://docs.mindovermachine.dev/gh-docs/
       icon: right-arrow
     - text: Github
-      link: https://github.com/mindovermachine-dev/remote-astro-theme
+      link: https://github.com/mindovermachine-dev/gh-docs
       icon: right-arrow
       variant: minimal
 ---
-💾 **[`mindovermachine-dev/remote-astro-theme`](https://github.com/mindovermachine-dev/remote-astro-theme)**<br/>
 
+**`[mindovermachine-dev/gh-docs](https://github.com/mindovermachine-dev/gh-docs)`**
 
+[![Release](https://github.com/mindovermachine-dev/gh-docs/actions/workflows/release.yml/badge.svg)](https://github.com/mindovermachine-dev/gh-docs/actions/workflows/release.yml)
+✔️ [`0.1.3`](https://github.com/mindovermachine-dev/gh-docs/releases/tag/0.1.3)<br/>
+💬 [Discussions](https://github.com/mindovermachine-dev/gh-docs/discussions/)<br/>
+🐛 [Issues](https://github.com/mindovermachine-dev/gh-docs/issues/)<br/>
+🏆 [Releases](https://github.com/mindovermachine-dev/gh-docs/releases/)
 
- 🏷️ [`0.1.0`](https://github.com/mindovermachine-dev/remote-astro-theme/releases/tag/0.1.0)<br/>
+**Topics**
 
-✏️ Last updated: 2026-10-29T14:37:41Z<br/>
-💬 [Discussions](https://github.com/mindovermachine-dev/remote-astro-theme/discussions/)<br/>
-🐛 [Issues](https://github.com/mindovermachine-dev/remote-astro-theme/issues/)
+- 🏷️ `documentation`
+

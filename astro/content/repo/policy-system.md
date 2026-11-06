@@ -1,24 +1,28 @@
 ---
-title: remote-astro-theme
+title: policy-system
 description: ""
 tableOfContents: false
 hero:
   tagline: ""
   actions:
     - text: Documentation
-      link: https://docs.mindovermachine.dev/remote-astro-theme/
+      link: https://docs.mindovermachine.dev/policy-system/
       icon: right-arrow
     - text: Github
-      link: https://github.com/mindovermachine-dev/remote-astro-theme
+      link: https://github.com/mindovermachine-dev/policy-system
       icon: right-arrow
       variant: minimal
 ---
-💾 **[`mindovermachine-dev/remote-astro-theme`](https://github.com/mindovermachine-dev/remote-astro-theme)**<br/>
 
+**`[mindovermachine-dev/policy-system](https://github.com/mindovermachine-dev/policy-system)`**
 
+[![Release](https://github.com/mindovermachine-dev/policy-system/actions/workflows/on_semver.yml/badge.svg)](https://github.com/mindovermachine-dev/policy-system/actions/workflows/on_semver.yml)
+✔️ [`12.1.7`](https://github.com/mindovermachine-dev/policy-system/releases/tag/12.1.7)<br/>
+💬 [Discussions](https://github.com/mindovermachine-dev/policy-system/discussions/)<br/>
+🐛 [Issues](https://github.com/mindovermachine-dev/policy-system/issues/)<br/>
+🏆 [Releases](https://github.com/mindovermachine-dev/policy-system/releases/)
 
- 🏷️ [`0.1.0`](https://github.com/mindovermachine-dev/remote-astro-theme/releases/tag/0.1.0)<br/>
+**Topics**
 
-✏️ Last updated: 2026-10-29T14:37:41Z<br/>
-💬 [Discussions](https://github.com/mindovermachine-dev/remote-astro-theme/discussions/)<br/>
-🐛 [Issues](https://github.com/mindovermachine-dev/remote-astro-theme/issues/)
+- 🏷️ `documentation`
+

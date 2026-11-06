@@ -2,7 +2,7 @@ index:
   owner: mindovermachine-dev
   file: astro/docs-repos.mjs
   visibility: public
-  template: astro/remote-astro-theme.md
+  template: astro/repository-template.md
   pages-dir: astro/content/repo
   topics:
     - documentation
