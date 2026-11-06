@@ -10,11 +10,11 @@ hero:
       icon: right-arrow
     - text: Github
       link: https://github.com/mindovermachine-dev/remote-astro-theme
-      icon: right-arrow
+      icon: github
       variant: minimal
 ---
 
-**`[mindovermachine-dev/remote-astro-theme](https://github.com/mindovermachine-dev/remote-astro-theme)`**
+**[`mindovermachine-dev/remote-astro-theme`](https://github.com/mindovermachine-dev/remote-astro-theme)**
 
 ✔️ [`0.1.0`](https://github.com/mindovermachine-dev/remote-astro-theme/releases/tag/0.1.0)<br/>
 💬 [Discussions](https://github.com/mindovermachine-dev/remote-astro-theme/discussions/)<br/>

@@ -10,11 +10,11 @@ hero:
       icon: right-arrow
     - text: Github
       link: [% .RepoURL %]
-      icon: right-arrow
+      icon: github
       variant: minimal
 ---
 
-**`[[% .Owner %]/[% .Name %]]([% .RepoURL %])`**
+**[`[% .Owner %]/[% .Name %]`]([% .RepoURL %])**
 
 [% if index .Workflows "release.yml" -%]
 [![Release]([% .RepoURL %]/actions/workflows/release.yml/badge.svg)]([% .RepoURL %]/actions/workflows/release.yml)

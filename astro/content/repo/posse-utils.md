@@ -10,11 +10,11 @@ hero:
       icon: right-arrow
     - text: Github
       link: https://github.com/mindovermachine-dev/posse-utils
-      icon: right-arrow
+      icon: github
       variant: minimal
 ---
 
-**`[mindovermachine-dev/posse-utils](https://github.com/mindovermachine-dev/posse-utils)`**
+**[`mindovermachine-dev/posse-utils`](https://github.com/mindovermachine-dev/posse-utils)**
 
 💬 [Discussions](https://github.com/mindovermachine-dev/posse-utils/discussions/)<br/>
 🐛 [Issues](https://github.com/mindovermachine-dev/posse-utils/issues/)<br/>

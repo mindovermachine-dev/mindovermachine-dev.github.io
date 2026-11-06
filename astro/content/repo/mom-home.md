@@ -10,11 +10,11 @@ hero:
       icon: right-arrow
     - text: Github
       link: https://github.com/mindovermachine-dev/mom-home
-      icon: right-arrow
+      icon: github
       variant: minimal
 ---
 
-**`[mindovermachine-dev/mom-home](https://github.com/mindovermachine-dev/mom-home)`**
+**[`mindovermachine-dev/mom-home`](https://github.com/mindovermachine-dev/mom-home)**
 
 [![Release](https://github.com/mindovermachine-dev/mom-home/actions/workflows/release-to-prod.yml/badge.svg)](https://github.com/mindovermachine-dev/mom-home/actions/workflows/release-to-prod.yml)
 ✔️ [`26.11.0`](https://github.com/mindovermachine-dev/mom-home/releases/tag/26.11.0)<br/>
